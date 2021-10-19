@@ -33,4 +33,7 @@ that's all
   <a href="https://tiktok.com/@nacreousdawn596">
     <img src="https://img.shields.io/badge/-TIKTOK-blue?logo=tiktok&labelColor=3b3b3b&color=white">
   </a>
+  <a href="https://discordapp.com/users/778627103578783776">
+    <img src="https://img.shields.io/badge/-DISCORD-white?logo=discord&logoColor=#563C5C&labelColor=black&color=white">
+  </a>
 </p>
