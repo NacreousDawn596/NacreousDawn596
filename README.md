@@ -17,7 +17,7 @@ that's all
 
 *discord:* ᑎᗩᑕᖇᗴᝪᑌᔑᗞᗩᗯᑎ596#5665
 
-*github:* https://github.com/NacreousDawn596/NacreousDawn596/
+*github:* https://github.com/NacreousDawn596/
 
 *instagram:* @kamal.afriad_official
 
