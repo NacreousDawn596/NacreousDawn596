@@ -1,6 +1,6 @@
 ### Hi There 👋
 
-![NacreousDawn596's github stats](https://github-readme-stats.vercel.app/api?username=NacreousDawn596&show_icons=true&title_color=f82371&icon_color=f8ca23&text_color=ffffff&bg_color=000000&border_color=ffffff)
+[![NacreousDawn596's GitHub stats](https://github-readme-stats.vercel.app/api?username=NacreousDawn596)]
 
 ### Let's Know More About Me :)
 
