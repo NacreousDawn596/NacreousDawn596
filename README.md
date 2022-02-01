@@ -12,7 +12,7 @@ I'm NacreousDawn596, you can call me just nac if you want :)
 
 I'm coder and I love these languages:
 ```md
-MarkDawn Python JavaScript Html Css Lua Bash Batch Vbs java nodeJs electronJs dart C powershell
+MarkDown Python JavaScript Html Css Lua Bash Batch Vbs java nodeJs electronJs dart C powershell
 ```
 
 that's all
