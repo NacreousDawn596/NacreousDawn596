@@ -8,8 +8,6 @@
 
 ![WProfile](https://usefull-api.herokuapp.com/WProfile/NacreousDawn596/python,%20html,%20javascript,%20lua,%20%20nodejs,%20electronjs,%20java,%20bash,%20batch,%20vbs/I%20am%20a%2015yo%20boy%20who%20speaks%204%20langu-ages%20and%20can%20code%20in%20more%20than%2010%20p-rogramming%20languages,%20hoping%20one%20%20day%20to%20get%20a%20good%20job%20with%20a%20good%20%20salary%20;-;)
 
-![check my repos, I will make this one open source soon ^^](https://usefull-api.herokuapp.com/WProfile/analytics/NacreousDawn596)
-
 I'm NacreousDawn596, you can call me just nac if you want :)
 
 I'm coder and I love these languages:
