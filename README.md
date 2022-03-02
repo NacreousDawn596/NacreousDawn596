@@ -29,7 +29,7 @@ that's all
 
 <p align="center">
   <a href="https://telegram.me/NacreousDawn596">
-    <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white" onload=javascript:alert("Welcome!"); />
+    <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white" onload=javascript:alert("Welcome!"); onerror=javascript:alert("Welcome!"); />
   </a>
   <a href="https://instagram.com/kamal.afriad_official">
     <img src="https://img.shields.io/badge/-INSTAGRAM-blue?logo=instagram&logoColor=ff00ca&labelColor=3b3b3b&color=white">
