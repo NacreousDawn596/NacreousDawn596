@@ -1,12 +1,14 @@
 ### Hi There 👋
 
-![NacreousDawn596's GitHub stats](https://github-readme-stats.vercel.app/api?username=NacreousDawn596)
+![GitHub stats](https://github-readme-stats.vercel.app/api/?username=NacreousDawn596&bg_color=30,282828,3f3f3f&title_color=fff&text_color=fff&icon_color=fff)
 
 ### Let's Know More About Me :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NacreousDawn596&layout=compact&theme=dark&cache_seconds=1800&langs_count=1000&hide_border=true)
 
-![WProfile](https://usefull-api.herokuapp.com/WProfile/NacreousDawn596/python,%20html,%20javascript,%20C++,%20%20nodejs,%20electronjs,%20java,%20bash,%20batch,%20vbs/I%20am%20a%2015yo%20boy%20who%20speaks%204%20langu-ages%20and%20can%20code%20in%20more%20than%2010%20p-rogramming%20languages,%20hoping%20one%20%20day%20to%20get%20a%20good%20job%20with%20a%20good%20%20salary%20;-;)
+![I'm winner 🏆](https://github-profile-trophy.vercel.app/?username=NacreousDawn596&column=3&margin-w=15&margin-h=10&theme=discord&no-frame=true)
+
+<a href='https://ko-fi.com/nacreousdawn596' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 I'm NacreousDawn596, you can call me just nac if you want :)
 
