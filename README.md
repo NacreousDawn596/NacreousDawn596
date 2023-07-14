@@ -1,12 +1,12 @@
 ### Hi There 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api/?username=NacreousDawn596&bg_color=30,282828,3f3f3f&title_color=fff&text_color=fff&icon_color=fff)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=NacreousDawn596&theme=rose_pine)
 
 ### Let's Know More About Me :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NacreousDawn596&layout=compact&theme=dark&cache_seconds=1800&langs_count=1000&hide_border=true)
 
-![I'm winner 🏆](https://github-profile-trophy.vercel.app/?username=NacreousDawn596&column=3&margin-w=15&margin-h=10&theme=discord&no-frame=true)
+![I'm winner 🏆](https://github-profile-trophy.vercel.app/?username=NacreousDawn596&column=3&margin-w=15&margin-h=10&no-frame=true&theme=rose_pine)
 
 <a href='https://ko-fi.com/nacreousdawn596' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
