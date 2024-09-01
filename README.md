@@ -1,7 +1,5 @@
 ### Hi There 👋
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NacreousDawn596&theme=rose_pine)
-
 ### Let's Know More About Me :)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NacreousDawn596&layout=compact&theme=dark&cache_seconds=1800&langs_count=1000&hide_border=true)
