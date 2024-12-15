@@ -2,13 +2,13 @@
 
 ### Let's Know More About Me :)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NacreousDawn596&layout=compact&theme=dark&cache_seconds=1800&langs_count=1000&hide_border=true)
+![NacreousDawn596's github stats](https://github-readme-stats.vercel.app/api?username=NacreousDawn596&show_icons=true&title_color=f78ba5&icon_color=ffb3d9&text_color=ffffff&bg_color=2a0038&border_color=00000000)
 
 ![I'm winner 🏆](https://github-profile-trophy.vercel.app/?username=NacreousDawn596&column=3&margin-w=15&margin-h=10&no-frame=true&theme=rose_pine)
 
 <a href='https://ko-fi.com/nacreousdawn596' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
-I'm NacreousDawn596, you can call me just nac if you want :)
+I'm <a href="https://afriad-kamal.github.io/">NacreousDawn596</a>, you can call me just nac if you want :)
 
 I'm coder and I love these languages:
 ```md
@@ -19,7 +19,7 @@ that's all
 
 ### You Can Contact Me here:
 
-*discord:* ᑎᗩᑕᖇᗴᝪᑌᔑᗞᗩᗯᑎ596#5665
+*discord:* nacreousdawn596
 
 *github:* https://github.com/NacreousDawn596/
 
