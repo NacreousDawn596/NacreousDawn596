@@ -38,4 +38,4 @@ If you enjoy my work and would like to support me, consider buying me a coffee h
 - **Email:** [NacreousDawn596@pm.me](mailto:NacreousDawn596@pm.me)
 - **Telegram:** [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white)](https://telegram.me/NacreousDawn596)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=NacreousDawn596&left_color=green&right_color=red)
