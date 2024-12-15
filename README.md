@@ -1,35 +1,41 @@
-### Hi There 👋
+# Hello, I'm NacreousDawn596! 👋
 
-### Let's Know More About Me :)
+![Welcome :3](./welcome.gif)
 
-![NacreousDawn596's github stats](https://github-readme-stats.vercel.app/api?username=NacreousDawn596&show_icons=true&title_color=f78ba5&icon_color=ffb3d9&text_color=ffffff&bg_color=2a0038&border_color=00000000)
+## About Me
 
-![I'm winner 🏆](https://github-profile-trophy.vercel.app/?username=NacreousDawn596&column=3&margin-w=15&margin-h=10&no-frame=true&theme=rose_pine)
+I'm a passionate coder with expertise in multiple programming languages, including:
 
-<a href='https://ko-fi.com/nacreousdawn596' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+- **Python**
+- **JavaScript**
+- **HTML & CSS**
+- **Bash**
+- **C++**
+- **Rust**
 
-I'm <a href="https://afriad-kamal.github.io/">NacreousDawn596</a>, you can call me just nac if you want :)
+I enjoy tackling complex problems and continuously learning new technologies to enhance my skill set :3
 
-I'm coder and I love these languages:
-```md
-Python JavaScript Html Css Bash cpp and rust :3
-```
+## GitHub Stats
 
-that's all
+![NacreousDawn596's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NacreousDawn596&show_icons=true&title_color=f78ba5&icon_color=ffb3d9&text_color=ffffff&bg_color=2a0038&border_color=00000000)
 
-### You Can Contact Me here:
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NacreousDawn596&layout=compact&title_color=f78ba5&text_color=ffffff&bg_color=2a0038&border_color=00000000)
 
-*discord:* nacreousdawn596
+## Trophies
 
-*github:* https://github.com/NacreousDawn596/
+![Trophies](https://github-profile-trophy.vercel.app/?username=NacreousDawn596&column=3&margin-w=15&margin-h=10&no-frame=true&theme=rose_pine)
 
-*e-mail:* NacreousDawn596@pm.me
+## Support Me
 
-<p align="center">
-  <a href="https://telegram.me/NacreousDawn596">
-    <img src="https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white" onload=javascript:alert("Welcome!"); onerror=javascript:alert("Welcome!"); />
-  </a>
-  <a href="https://discordapp.com/users/778627103578783776">
-    <img src="https://img.shields.io/badge/-DISCORD-white?logo=discord&logoColor=#563C5C&labelColor=black&color=white">
-  </a>
-</p>
+If you enjoy my work and would like to support me, consider buying me a coffee hehe x3
+
+[![Ko-Fi](https://cdn.ko-fi.com/cdn/kofi1.png?v=2)](https://ko-fi.com/nacreousdawn596)
+
+## Contact Me
+
+- **Discord:** nacreousdawn596
+- **GitHub:** [NacreousDawn596](https://github.com/NacreousDawn596/)
+- **Email:** [NacreousDawn596@pm.me](mailto:NacreousDawn596@pm.me)
+- **Telegram:** [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white)](https://telegram.me/NacreousDawn596)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
