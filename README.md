@@ -73,7 +73,7 @@ If you appreciate my work and would like to support me, consider buying me a cof
   <a href="https://github.com/NacreousDawn596">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/nacreousdawn596">
+  <a href="https://www.linkedin.com/in/kamal-aferiad-163556326">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://telegram.me/NacreousDawn596">
