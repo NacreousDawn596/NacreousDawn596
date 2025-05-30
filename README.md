@@ -35,7 +35,7 @@ If you enjoy my work and would like to support me, consider buying me a coffee h
 
 - **Discord:** nacreousdawn596
 - **GitHub:** [NacreousDawn596](https://github.com/NacreousDawn596/)
-- **Email:** [NacreousDawn596@pm.me](mailto:NacreousDawn596@pm.me)
+- **Email:** [kamal@aferiad.xyz](mailto:kamal@aferiad.xyz)
 - **Telegram:** [![Telegram Badge](https://img.shields.io/badge/-TELEGRAM-blue?logo=telegram&labelColor=3b3b3b&color=white)](https://telegram.me/NacreousDawn596)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=NacreousDawn596&left_color=green&right_color=red)
