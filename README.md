@@ -76,7 +76,7 @@ Currently going deeper into:
 
 ---
 
-## 📊 GitHub Activity (Live)
+## 📊 GitHub Activity 
 
 <p align="center">
   <img
@@ -93,40 +93,72 @@ Currently going deeper into:
   <a href="[https://git.io/streak-stats](https://streak-stats.demolab.com?user=NacreousDawn596&theme=tokyonight&hide_border=true)"><img src="https://streak-stats.demolab.com?user=NacreousDawn596&theme=tokyonight&hide_border=true" alt="GitHub Streak" /></a>
 </p>
 
+
+### Pinned Projects 
+<div align="center">
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/NacreousDawn596/Gato">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NacreousDawn596&repo=Gato&theme=transparent&hide_border=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/NacreousDawn596/CitySkyLine">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NacreousDawn596&repo=CitySkyLine&theme=transparent&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/NacreousDawn596/MiCava">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NacreousDawn596&repo=MiCava&theme=transparent&hide_border=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/NacreousDawn596/Penplotter">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NacreousDawn596&repo=Penplotter&theme=transparent&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/NacreousDawn596/ticketing-system">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NacreousDawn596&repo=ticketing-system&theme=transparent&hide_border=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/NacreousDawn596/Python3-tutorial">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NacreousDawn596&repo=Python3-tutorial&theme=transparent&hide_border=true"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
 ---
 
-## 🏆 Highlights
+## 🚀 Projects & Showcases
 
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=NacreousDawn596&theme=radical&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" /> </p>
+Here’s what I’ve cooked up so far:
 
----
+### 🔭 Featured
 
-## 🚀 Selected Projects
-
-A curated selection of projects focusing on **systems thinking, performance, and real-world problem solving**.
-
-- <a href="https://github.com/NacreousDawn596/Gato">Gato</a>  
-  Neural network–powered ASCII/Braille cat animation featuring realistic eye tracking, blinking, and mood-based expressions.  
+- 🎨 **<a href="https://github.com/NacreousDawn596/Gato">Gato</a>** – Neural network–powered ASCII/Braille cat animation featuring realistic eye tracking, blinking, and mood-based expressions.  
   Explores low-level rendering, timing, and expressive behavior in terminal environments.
-
-- <a href="https://github.com/NacreousDawn596/CitySkyLine">CitySkyLine</a>  
-  A city simulation game where players design infrastructure (housing, industry, transport, education) and manage revenue through taxation.  
+- 🏙️ **<a href="https://github.com/NacreousDawn596/CitySkyLine">CitySkyLine</a>** – A city simulation game where players design infrastructure (housing, industry, transport, education) and manage revenue through taxation.  
   Focused on simulation logic, resource balancing, and system-wide interactions.
-
-- <a href="https://github.com/NacreousDawn596/MiCava">MiCava</a>  
-  A modern C++ reimplementation of Cava using **GLFW3** for rendering.  
+- 🧩 **<a href="https://github.com/NacreousDawn596/MiCava">MiCava</a>** – A modern C++ reimplementation of Cava using **GLFW3** for rendering.  
   Emphasizes real-time visualization, performance constraints, and clean rendering pipelines.
-
-- <a href="https://github.com/NacreousDawn596/Penplotter">Penplotter</a>  
-  A pen plotter built from scratch, supporting both **Arduino** and **ESP** platforms.  
-  Covers embedded control, motion planning, and hardware–software integration.
-
-- <a href="https://github.com/NacreousDawn596/ticketing-system">ticketing-system</a>  
-  An AI-powered ticket resolution system using **Ollama** models to analyze issues, generate clarifying questions, and propose actionable solutions.  
+- 🤖 **<a href="https://github.com/NacreousDawn596/Penplotter">Penplotter</a>** – A pen plotter built from scratch, supporting both **Arduino** and **ESP** platforms.  
+  Covers embedded control, motion planning, and hardware–software integration.  
+- 🧠 **<a href="https://github.com/NacreousDawn596/ticketing-system">ticketing-system</a>** – An AI-powered ticket resolution system using **Ollama** models to analyze issues, generate clarifying questions, and propose actionable solutions.  
   Combines NLP, automation, and system design.
-
-- <a href="https://github.com/NacreousDawn596/Python3-tutorial">Python3-tutorial</a>  
-  A concise and efficient Python course designed for beginners, focused on clarity, fundamentals, and practical understanding.
+- 📘 **<a href="https://github.com/NacreousDawn596/Python3-tutorial">Python3-tutorial</a>** – A concise and efficient Python course designed for beginners, focused on clarity, fundamentals, and practical understanding.
 
 ---
 
